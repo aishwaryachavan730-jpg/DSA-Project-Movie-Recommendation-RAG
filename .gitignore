@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .cache/
 .env
+
+DataSet/TMDB_movie_dataset_v11.csv
+DataSet/clean_movies.csv
+DataSet/processed_movies.csv
