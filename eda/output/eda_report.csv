@@ -1,0 +1,7 @@
+Metric,Value
+total_movies,50
+total_columns,11
+unique_movies,50
+duplicate_records,0
+average_tmdb_rating,7.82
+missing_values,"{'title': 0, 'year': 0, 'tmdb_rating': 0, 'imdb_rating': 1, 'genre': 0, 'overview': 0, 'director': 1, 'actors': 1, 'awards': 1, 'watchmode_data': 0, 'news_data': 0}"

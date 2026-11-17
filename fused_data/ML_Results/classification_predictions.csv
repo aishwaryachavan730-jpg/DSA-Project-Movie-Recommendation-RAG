@@ -1,0 +1,21 @@
+movie_title,actual_rating_category,1_Naive_Bayes,2_SVM,3_Decision_Tree,4_Random_Forest,5_Logistic_Regression
+Bohemian Rhapsody,High,High,High,High,High,High
+The Incredibles,High,High,High,High,High,High
+The Green Mile,High,High,High,High,High,High
+Harry Potter and the Order of the Phoenix,High,High,High,High,High,High
+Interstellar,High,High,High,High,High,High
+The Wolf of Wall Street,High,High,High,High,High,High
+Inglourious Basterds,High,High,High,High,High,High
+The Amazing Spider-Man,Low,High,Low,Low,Low,High
+The Shining,High,High,High,High,High,High
+Gone Girl,High,High,High,High,High,High
+Harry Potter and the Half-Blood Prince,High,High,High,High,High,High
+Captain America: The First Avenger,Low,High,High,High,Low,High
+Batman Begins,High,High,High,High,High,High
+Captain America: Civil War,High,High,High,High,High,High
+Coco,High,High,High,High,High,High
+Shutter Island,High,High,High,High,High,High
+Avengers: Endgame,High,High,High,High,High,High
+The Dark Knight,High,High,High,High,High,High
+Captain America: The Winter Soldier,High,High,High,High,High,High
+Split,High,High,High,High,High,High

@@ -1,0 +1,15 @@
+API,Column,Non_Empty,Coverage_Percentage
+TMDB,tmdb_rating,100,100.0
+TMDB,vote_count,100,100.0
+TMDB,popularity,100,100.0
+OMDb,imdb_rating,100,100.0
+OMDb,runtime,100,100.0
+OMDb,director,100,100.0
+OMDb,actors,100,100.0
+OMDb,awards,100,100.0
+WatchMode,streaming_platforms,100,100.0
+WatchMode,streaming_region,100,100.0
+News API,news_count,100,100.0
+News API,latest_news,100,100.0
+Wikipedia,wikipedia_summary,100,100.0
+Wikipedia,wikipedia_url,100,100.0

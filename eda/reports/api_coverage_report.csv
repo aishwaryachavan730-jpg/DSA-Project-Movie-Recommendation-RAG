@@ -1,0 +1,6 @@
+API,Column,Non_Empty,Coverage_Percentage
+TMDB,tmdb_rating,100,100.0
+NEWS,news_count,100,100.0
+NEWS,latest_news,100,100.0
+WIKIPEDIA,wikipedia_summary,100,100.0
+WIKIPEDIA,wikipedia_url,100,100.0

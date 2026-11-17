@@ -1,9 +1,58 @@
-venv/
-__pycache__/
-*.pyc
-.cache/
-.env
 
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Large datasets
 DataSet/TMDB_movie_dataset_v11.csv
 DataSet/clean_movies.csv
 DataSet/processed_movies.csv
+
+# Large generated files
+DataSet/movie_embeddings.npy
+faiss_index/2D6B3A90
+faiss_index/movie_metadata.csv
+
+# Temporary files
+~$*
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Additional large generated datasets and indexes
+DataSet/cleaned_movies.csv
+DataSet/fused_movies.csv
+DataSet/movies.index
+faiss_index/
+
+# Python cache folders
+**/__pycache__/
+.pytest_cache/
+
+# Backup files
+app_backup.py
+app_before_sidebar_fix.py
+ml_algorithms_backup.py
+
+# Temporary Word files
+~$*
+
+# Unnecessary empty folder
+New folder/
+
