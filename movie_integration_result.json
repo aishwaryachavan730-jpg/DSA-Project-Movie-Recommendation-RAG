@@ -1,0 +1,171 @@
+{
+    "movie_title": "Interstellar",
+    "tmdb": {
+        "success": true,
+        "title": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "release_date": "2014-11-05",
+        "rating": 8.485,
+        "vote_count": 40762,
+        "tmdb_id": 157336
+    },
+    "omdb": {
+        "success": true,
+        "title": "Interstellar",
+        "year": "2014",
+        "imdb_rating": "8.7",
+        "director": "Christopher Nolan",
+        "actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "awards": "Won 1 Oscar. 45 wins & 148 nominations total",
+        "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "runtime": "169 min",
+        "imdb_id": "tt0816692"
+    },
+    "watchmode": {
+        "success": true,
+        "title": "Interstellar",
+        "results": [
+            {
+                "resultType": "title",
+                "id": 1184713,
+                "name": "Interstellar",
+                "type": "movie",
+                "year": 2014,
+                "imdb_id": "tt0816692",
+                "tmdb_id": 157336,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 451944,
+                "name": "Interstellar: Nolan's Odyssey",
+                "type": "tv_movie",
+                "year": 2014,
+                "imdb_id": "tt4172224",
+                "tmdb_id": 301959,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 11203146,
+                "name": "Interstellar Wandering",
+                "type": "movie",
+                "year": 2019,
+                "imdb_id": null,
+                "tmdb_id": 649745,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 1184714,
+                "name": "Interstellar Civil War: Shadows of the Empire",
+                "type": "movie",
+                "year": 2017,
+                "imdb_id": "tt5056352",
+                "tmdb_id": 460616,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 3259415,
+                "name": "Interstellar Ella",
+                "type": "tv_series",
+                "year": 2022,
+                "imdb_id": "tt26699362",
+                "tmdb_id": 212171,
+                "tmdb_type": "tv"
+            },
+            {
+                "resultType": "title",
+                "id": 1184716,
+                "name": "Interstellar Wars",
+                "type": "movie",
+                "year": 2016,
+                "imdb_id": "tt5083736",
+                "tmdb_id": 398188,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 3216327,
+                "name": "Interstellar Ranger Commence",
+                "type": "tv_series",
+                "year": 2022,
+                "imdb_id": "tt11236038",
+                "tmdb_id": 244653,
+                "tmdb_type": "tv"
+            },
+            {
+                "resultType": "title",
+                "id": 1817980,
+                "name": "Interstellar Interference",
+                "type": "movie",
+                "year": 2023,
+                "imdb_id": null,
+                "tmdb_id": 1282990,
+                "tmdb_type": "movie"
+            },
+            {
+                "resultType": "title",
+                "id": 1972310,
+                "name": "Interstellar Political Prisoner",
+                "type": "movie",
+                "year": 2016,
+                "imdb_id": null,
+                "tmdb_id": 1450827,
+                "tmdb_type": "movie"
+            }
+        ]
+    },
+    "movie_discovery": {
+        "success": false,
+        "error": "401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&region=IN&sort_by=primary_release_date.desc"
+    },
+    "news": {
+        "success": true,
+        "movie": "Interstellar",
+        "articles": [
+            {
+                "title": "Matthew McConaughey back on the big screen in 'Rivals of Amziah King'",
+                "description": "Matthew McConaughey hadn’t made a movie in five years when ‘The Rivals of Amziah King’ came across his desk.",
+                "url": "https://torontosun.com/entertainment/movies/matthew-mcconaughey-on-how-the-rivals-of-amziah-king-made-him-fall-in-love-with-acting-again",
+                "published_at": "2026-08-15T13:10:57Z",
+                "source": "Toronto Sun"
+            },
+            {
+                "title": "On Earth, dimethyl sulfide is produced overwhelmingly by life in the oceans and escapes into the atmosphere. JWST has now picked up a tantalising possible signature of the same molecule around K2-18 b, 120 light-years away — but the detection remains disputed, and scientists are still trying to determine whether non-biological chemistry could produce it.",
+                "description": "Webb's possible DMS signature on K2-18 b survives as a disputed candidate, while 2026 chemistry and retrieval studies show why neither the molecule nor its origin is settled.\nThe post On Earth, dimethyl sulfide is produced overwhelmingly by life in the oceans…",
+                "url": "https://spacedaily.com/t-k2-18b-dimethyl-sulfide-detection-abiotic-chemistry/",
+                "published_at": "2026-08-15T06:30:00Z",
+                "source": "Space Daily"
+            },
+            {
+                "title": "'Star Wars: Starfighter’ Trailer Officially Reveals Ryan Gosling’s New Galaxy Far, Far Away",
+                "description": "The first Star Wars: Starfighter trailer has finally arrived at D23, revealing Ryan Gosling and Shawn Levy’s new Star Wars adventure.",
+                "url": "https://collider.com/star-wars-starfighter-first-trailer-ryan-gosling-d23/",
+                "published_at": "2026-08-15T04:42:20Z",
+                "source": "Collider.com"
+            },
+            {
+                "title": "Voyager 1 isn’t dying because anything failed — nearly 50 years of interstellar travel and every original system still works. The mission is ending because a plutonium battery losing 4 watts a year eventually runs out of watts",
+                "description": "Voyager 1's four-watt annual power decline is real, but the mission has also survived failed memory, ageing thrusters and a deliberate programme of instrument shutdowns.\nThe post Voyager 1 isn’t dying because anything failed — nearly 50 years of interstellar …",
+                "url": "https://spacedaily.com/t-voyager1-four-watts-year-mission-ending/",
+                "published_at": "2026-08-15T04:15:49Z",
+                "source": "Space Daily"
+            },
+            {
+                "title": "Astrobuilder-TENOKE",
+                "description": "Release Description:Play it safe: adjust your trade routes and faction relationships in advance, and get ahead of the storm. Or gamble everything: intervene in the choices of individual characters, attempt to break the Prophecy, and change the future itself. …",
+                "url": "https://post.rlsbb.cc/astrobuilder-tenoke/",
+                "published_at": "2026-08-15T02:24:31Z",
+                "source": "Rlsbb.cc"
+            }
+        ]
+    },
+    "movie_context": "\n\nMOVIE TITLE:\nInterstellar\n\nTMDB INFORMATION:\n\nTitle:\nInterstellar\n\nOverview:\nThe adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.\n\nRelease Date:\n2014-11-05\n\nTMDB Rating:\n8.485\n\nVote Count:\n40762\n\nTMDB ID:\n157336\n\nOMDb / IMDb INFORMATION:\n\nTitle:\nInterstellar\n\nYear:\n2014\n\nIMDb Rating:\n8.7\n\nDirector:\nChristopher Nolan\n\nActors:\nMatthew McConaughey, Anne Hathaway, Jessica Chastain\n\nAwards:\nWon 1 Oscar. 45 wins & 148 nominations total\n\nPlot:\nWhen Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.\n\nGenre:\nAdventure, Drama, Sci-Fi\n\nRuntime:\n169 min\n\nIMDb ID:\ntt0816692\n\nWATCHMODE STREAMING INFORMATION:\n\nTitle:\nInterstellar\n\nSearch Results Found:\n9\n\nStreaming Sources Found:\n0\n\nNo streaming sources available.\n\nRECENT MOVIE-RELATED NEWS:\n\nArticles Found:\n5\n\nArticle 1\n\nTitle:\nMatthew McConaughey back on the big screen in 'Rivals of Amziah King'\n\nDescription:\nMatthew McConaughey hadn’t made a movie in five years when ‘The Rivals of Amziah King’ came across his desk.\n\nSource:\nToronto Sun\n\nPublished:\n2026-08-15T13:10:57Z\n\nURL:\nhttps://torontosun.com/entertainment/movies/matthew-mcconaughey-on-how-the-rivals-of-amziah-king-made-him-fall-in-love-with-acting-again\n\nArticle 2\n\nTitle:\nOn Earth, dimethyl sulfide is produced overwhelmingly by life in the oceans and escapes into the atmosphere. JWST has now picked up a tantalising possible signature of the same molecule around K2-18 b, 120 light-years away — but the detection remains disputed, and scientists are still trying to determine whether non-biological chemistry could produce it.\n\nDescription:\nWebb's possible DMS signature on K2-18 b survives as a disputed candidate, while 2026 chemistry and retrieval studies show why neither the molecule nor its origin is settled.\nThe post On Earth, dimethyl sulfide is produced overwhelmingly by life in the oceans…\n\nSource:\nSpace Daily\n\nPublished:\n2026-08-15T06:30:00Z\n\nURL:\nhttps://spacedaily.com/t-k2-18b-dimethyl-sulfide-detection-abiotic-chemistry/\n\nArticle 3\n\nTitle:\n'Star Wars: Starfighter’ Trailer Officially Reveals Ryan Gosling’s New Galaxy Far, Far Away\n\nDescription:\nThe first Star Wars: Starfighter trailer has finally arrived at D23, revealing Ryan Gosling and Shawn Levy’s new Star Wars adventure.\n\nSource:\nCollider.com\n\nPublished:\n2026-08-15T04:42:20Z\n\nURL:\nhttps://collider.com/star-wars-starfighter-first-trailer-ryan-gosling-d23/\n\nArticle 4\n\nTitle:\nVoyager 1 isn’t dying because anything failed — nearly 50 years of interstellar travel and every original system still works. The mission is ending because a plutonium battery losing 4 watts a year eventually runs out of watts\n\nDescription:\nVoyager 1's four-watt annual power decline is real, but the mission has also survived failed memory, ageing thrusters and a deliberate programme of instrument shutdowns.\nThe post Voyager 1 isn’t dying because anything failed — nearly 50 years of interstellar …\n\nSource:\nSpace Daily\n\nPublished:\n2026-08-15T04:15:49Z\n\nURL:\nhttps://spacedaily.com/t-voyager1-four-watts-year-mission-ending/\n\nArticle 5\n\nTitle:\nAstrobuilder-TENOKE\n\nDescription:\nRelease Description:Play it safe: adjust your trade routes and faction relationships in advance, and get ahead of the storm. Or gamble everything: intervene in the choices of individual characters, attempt to break the Prophecy, and change the future itself. …\n\nSource:\nRlsbb.cc\n\nPublished:\n2026-08-15T02:24:31Z\n\nURL:\nhttps://post.rlsbb.cc/astrobuilder-tenoke/",
+    "recommendation": {
+        "success": false,
+        "error": "generate_recommendation() missing 1 required positional argument: 'movie_context'"
+    }
+}

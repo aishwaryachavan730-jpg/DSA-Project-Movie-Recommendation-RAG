@@ -1,0 +1,11 @@
+Metric,Value
+Total Rows,100.0
+Total Columns,18.0
+Unique Movie Titles,100.0
+Duplicate Rows,0.0
+Duplicate Movie Titles,0.0
+Missing Cells,7.0
+Completeness Percentage,99.61
+Invalid TMDB Ratings,0.0
+Invalid IMDb Ratings,0.0
+Negative News Counts,0.0
